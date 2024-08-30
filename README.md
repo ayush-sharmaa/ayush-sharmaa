@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/ayush-sharmaa/count.svg" />
 </p>
 <h1 align="center">Hi 👋, I'm Ayush Sharma !</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-sharmaa&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-sharmaa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-sharmaa&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-sharmaa" /> </p>wz
 <img align="right" alt="coding" width ="400" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif">
 
 
